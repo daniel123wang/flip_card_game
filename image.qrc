@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>heitao_8.jpg</file>
+        <file>heitao_10.jpg</file>
+        <file>heitao_j.jpg</file>
+        <file>heitao_k.jpg</file>
+        <file>heitao_q.jpg</file>
+        <file>hongxin_4.jpg</file>
+        <file>pokerback.jpg</file>
+        <file>pointer.png</file>
+        <file>flower.gif</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>bkg.jpg</file>
+        <file>bkg_grading.jpg</file>
+        <file>bkg_level.jpg</file>
+        <file>bkg_main.jpg</file>
+        <file>youwin.jpg</file>
+        <file>youlose.jpg</file>
+        <file>bkg_grade.jpg</file>
+    </qresource>
+</RCC>

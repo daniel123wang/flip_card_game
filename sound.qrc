@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CardShuffle.mp3</file>
+        <file>CardFlip.mp3</file>
+        <file>YouWin.mp3</file>
+        <file>Win.mp3</file>
+        <file>Lose.mp3</file>
+        <file>YouLose.mp3</file>
+        <file>WrongMatch.mp3</file>
+        <file>Game-Menu.mp3</file>
+    </qresource>
+</RCC>
